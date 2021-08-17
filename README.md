@@ -1,10 +1,22 @@
 
 # 我的 2021 秋招 
 
-汇总自己 2021 秋招经历，整理笔试题以及面经，使用 [Issues](https://github.com/mayandev/interview-schedule/issues) 进行进度管理，自动同步 [Google Calendar](https://calendar.google.com/) 的面试日程。[如何创建自己的面试日程？](https://github.com/Mayandev/interview-2021/issues/19)
+本仓库用于记录自己 2021 年秋招经历，分享秋招经验。
 
+本仓库复刻(fork)自开源仓库： [Mayandev/interview-schedule](https://github.com/Mayandev/interview-schedule)，感谢 Mayandev 的工作。  
+仓库使用 [Issues](https://github.com/coreur/interview-schedule-2021/issues) 进行进度管理，自动同步 [Google Calendar](https://calendar.google.com/) 的面试日程，并由 Github Action 自动生成 MARKDOWN 文档。
 
-👇 以下内容由 GitHub Action 自动生成。
+通过微软 [Power Automate](https://asia.flow.microsoft.com/zh-cn/) 服务将 Outlook 日程自动同步到 Google Calendar，间接实现同步 Outlook 日程。
+
+*Reference*
+
+- 项目介绍：[巧妙使用 GitHub Issues 管理自己的面试进度](https://www.nowcoder.com/discuss/700084)
+- 使用方法：[如何创建自己的面试日程？](https://github.com/Mayandev/interview-2021/issues/19)
+- [同步谷歌日历到outlook日历--Power Automate应用](https://zhuanlan.zhihu.com/p/350907659)
+
+---
+
+👇 以下内容由 GitHub Action 自动生成 👇
 
 ## 面试日程
 
@@ -14,30 +26,4 @@
 | 08/19 17:00 | [Bilibili 二面](https://www.google.com/calendar/event?eid=NGxuMDlyYnYxM21ha2luMTNscDlscGU4Z3QgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw) |
 
 ## 已投递
-- [携程](https://github.com/Mayandev/interview-schedule/issues/17) -- 2021-08-09
-- [货拉拉](https://github.com/Mayandev/interview-schedule/issues/16) -- 2021-08-05
-- [招商银行](https://github.com/Mayandev/interview-schedule/issues/12) -- 2021-07-24
-- [网易云音乐](https://github.com/Mayandev/interview-schedule/issues/4) -- 2021-07-29
-## 待笔试
-- [SHEIN](https://github.com/Mayandev/interview-schedule/issues/8) -- 2021-07-28
-- [Zoom](https://github.com/Mayandev/interview-schedule/issues/6) -- 2021-07-23
-- [猿辅导](https://github.com/Mayandev/interview-schedule/issues/5) -- 2021-07-26
-- [贝壳](https://github.com/Mayandev/interview-schedule/issues/3) -- 2021-08-17
-- [360](https://github.com/Mayandev/interview-schedule/issues/1) -- 2021-07-23
-## 面试中
-- [Bilibili](https://github.com/Mayandev/interview-schedule/issues/21) -- 2021-08-17
-- [声网](https://github.com/Mayandev/interview-schedule/issues/20) -- 2021-08-17
-- [知乎](https://github.com/Mayandev/interview-schedule/issues/18) -- 2021-08-10
-- [小米](https://github.com/Mayandev/interview-schedule/issues/13) -- 2021-08-17
-- [百度](https://github.com/Mayandev/interview-schedule/issues/10) -- 2021-08-04
-## 流程终止
-- [【放弃面试】腾讯](https://github.com/Mayandev/interview-schedule/issues/22) -- 2021-08-17
-- [【放弃面试】美团](https://github.com/Mayandev/interview-schedule/issues/15) -- 2021-08-04
-- [【放弃面试】兴业银行](https://github.com/Mayandev/interview-schedule/issues/14) -- 2021-08-05
-- [【未通过笔试】拼多多](https://github.com/Mayandev/interview-schedule/issues/9) -- 2021-08-04
-- [【未通过简历筛选】Shopee](https://github.com/Mayandev/interview-schedule/issues/7) -- 2021-07-28
-<details><summary>显示更多</summary>
-
-- [【未通过 HR 面试】京东](https://github.com/Mayandev/interview-schedule/issues/2) -- 2021-08-12
-</details>
-
+- [测试](https://github.com/coreur/interview-schedule-2021/issues/2) -- 2021-08-17
