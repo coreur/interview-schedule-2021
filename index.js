@@ -35,10 +35,22 @@ async function updateReadme() {
     let readme = `
 # 我的 2021 秋招 
 
-汇总自己 2021 秋招经历，整理笔试题以及面经，使用 [Issues](${RepoUrl}/issues) 进行进度管理，自动同步 [Google Calendar](https://calendar.google.com/) 的面试日程。[如何创建自己的面试日程？](https://github.com/Mayandev/interview-2021/issues/19)
+本仓库用于记录自己 2021 年秋招经历，分享秋招经验。
 
+本仓库复刻(fork)自开源仓库： [Mayandev/interview-schedule](https://github.com/Mayandev/interview-schedule)，感谢 Mayandev 的工作。  
+仓库使用 [Issues](${RepoUrl}/issues) 进行进度管理，自动同步 [Google Calendar](https://calendar.google.com/) 的面试日程，并由 Github Action 自动生成 MARKDOWN 文档。
 
-👇 以下内容由 GitHub Action 自动生成。
+通过微软 [Power Automate](https://asia.flow.microsoft.com/zh-cn/) 服务将 Outlook 日程自动同步到 Google Calendar，间接实现同步 Outlook 日程。
+
+*Reference*
+
+- 项目介绍：[巧妙使用 GitHub Issues 管理自己的面试进度](https://www.nowcoder.com/discuss/700084)
+- 使用方法：[如何创建自己的面试日程？](https://github.com/Mayandev/interview-2021/issues/19)
+- [同步谷歌日历到outlook日历--Power Automate应用](https://zhuanlan.zhihu.com/p/350907659)
+
+---
+
+👇 以下内容由 GitHub Action 自动生成 👇
 
 ## 面试日程
 
