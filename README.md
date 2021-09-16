@@ -20,10 +20,8 @@
 
 ## 面试日程
 
-| 时间          | 日程                                                                                                                                       |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 09/15 08:00 | [中国船舶双选会](https://www.google.com/calendar/event?eid=aDBzamZob3VnaWhxamoyZzQ5Z2RuOHBvMjQgY203a3BraHVtNDRyampyM2xvNWVnMjRsZWdAZw)          |
-| 09/17 09:00 | [中广核研究院反应堆工程实验研究所](https://www.google.com/calendar/event?eid=bnNjZmFqNGk2MmprNXU4cGExaGhwNHBzZWcgY203a3BraHVtNDRyampyM2xvNWVnMjRsZWdAZw) |
+| 时间 | 日程 |
+| -- | -- |
 
 ## 已投递
 - [测试](https://github.com/coreur/interview-schedule-2021/issues/2) -- 2021-08-17
