@@ -20,8 +20,9 @@
 
 ## 面试日程
 
-| 时间 | 日程 |
-| -- | -- |
+| 时间          | 日程                                                                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 09/17 09:00 | [中广核研究院反应堆工程实验研究所](https://www.google.com/calendar/event?eid=OGluZ2U0Y2Q0bjJwa2VnYzdnY2kwNm02dXMgY203a3BraHVtNDRyampyM2xvNWVnMjRsZWdAZw) |
 
 ## 已投递
 - [测试](https://github.com/coreur/interview-schedule-2021/issues/2) -- 2021-08-17
