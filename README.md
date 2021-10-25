@@ -20,9 +20,8 @@
 
 ## 面试日程
 
-| 时间          | 日程                                                                                                                           |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 10/24 08:00 | [中核集团](https://www.google.com/calendar/event?eid=cmV2ODRjdWdicDJ1NnA2bnQybWM0MWRlNWsgY203a3BraHVtNDRyampyM2xvNWVnMjRsZWdAZw) |
+| 时间 | 日程 |
+| -- | -- |
 
 ## 已投递
 - [测试](https://github.com/coreur/interview-schedule-2021/issues/2) -- 2021-08-17
